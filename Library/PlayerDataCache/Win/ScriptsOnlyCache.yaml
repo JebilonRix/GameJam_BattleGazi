@@ -910,4 +910,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/01Level.unity
   - Assets/Scenes/02GameOver.unity
   - Assets/Scenes/03Victory.unity
-  playerPath: C:/Users/fuat/Desktop/BattleGazi/Battle Gazi.exe
+  playerPath: C:/Users/fuat/Desktop/BattleGazi 1.0.0.5/Battle Gazi.exe
